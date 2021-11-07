@@ -56,3 +56,6 @@ Bouldering, Rock Climbing, cycling traveling
 
 ### Contact Information
 
+E-mail: xuehui0113@gmail.com
+
+Mobile: (+86)13227866069
