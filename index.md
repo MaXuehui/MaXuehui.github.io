@@ -20,8 +20,6 @@ Xi'an University of Technology
 
 05/2018-01/2021, I was software engineer in Xi'an Baofei Electronic Co.,Ltd
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Publications
 
 [1] [Ma X, Qian F, Zhang S, et al. Adaptive quantile control for stochastic system[J]. ISA transactions, 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0019057821002950)
