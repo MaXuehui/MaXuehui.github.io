@@ -22,7 +22,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Publications
 
-Ma X, Qian F, Zhang S, et al. Adaptive quantile control for stochastic system[J]. ISA transactions, 2021.
+[Ma X, Qian F, Zhang S, et al. Adaptive quantile control for stochastic system[J]. ISA transactions, 2021.](https://guides.github.com/features/mastering-markdown/)
 
 
 
