@@ -34,6 +34,8 @@ Submitted to ISA Transactions. Xuehui Ma, Fucai Qian, Shiliang Zhang. Adaptive d
 
 Drafting: Reinforcement Q-learning for the optimal control of discrete-time linear stochastic system with dual uncertainties
 
+Thesis: [飞控硬件平台设计及导航算法研究](https://github.com/MaXuehui/Design-for-flight-control-platform-and-research-on-navigation-algorithm)
+
 Computer Software Copyright: “10MHz-24GHz Analog Signal Generator On-Screen-Display Software”, 2020SR0722975, 20200703.
 
 Computer Software Copyright: “Single Point Phase Locked Source Software”, 2020SR0571073, 20200604.
