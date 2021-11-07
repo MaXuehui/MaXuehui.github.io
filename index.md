@@ -22,6 +22,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Publications
 
+Ma X, Qian F, Zhang S, et al. Adaptive quantile control for stochastic system[J]. ISA transactions, 2021.
+
+
+
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaXuehui/MaXuehui.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Hobbies
