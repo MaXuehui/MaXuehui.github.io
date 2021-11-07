@@ -24,8 +24,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [Ma X, Qian F, Zhang S, et al. Adaptive quantile control for stochastic system[J]. ISA transactions, 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0019057821002950)
 
-[Ma X, Qian F, Zhang S. Dual control for stochastic systems with multiple uncertainties[C]//2020 39th Chinese Control Conference (CCC). IEEE, 2020: 1001-1006.]
-(https://ieeexplore.ieee.org/document/9189668)
+[Ma X, Qian F, Zhang S. Dual control for stochastic systems with multiple uncertainties[C]//2020 39th Chinese Control Conference (CCC). IEEE, 2020: 1001-1006.](https://ieeexplore.ieee.org/document/9189668)
 
 [Liu L, Xie G, Qian F, Wang M, Ma X. Reliable control based on dual control for ARMAX system with abrupt faults[J]. Journal of the Franklin Institute, 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0016003221002891)
 
