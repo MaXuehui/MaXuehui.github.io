@@ -1,30 +1,24 @@
-## Welcome to GitHub Pages
+## Ma Xuehui
 
-You can use the [editor on GitHub](https://github.com/MaXuehui/MaXuehui.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+PhD candidate in Control Theory & Control Engineering
+School of Automation and Information Engineering
+Xi'an University of Technology
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education & Work 
 
-### Markdown
+Xi'an University of Technology (09/2017- Now)									Xi'an, China
+PhD candidate in Control Theory & Control Engineering
+Research fields: stochastic system, adaptive control, data processing
+Xi'an University of Technology (09/2014-07/2017)									Xi'an, China
+Master of engineering degree in Control Engineering
+Research field: flight control system for UAV
+Xi’an University of Technology (09/2010-07/2014)									Xi'an, China
+Bachelor of engineering degree in Electrical Engineering 
+GPA: 4.27/5 (top 2%)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In 09/2015-10/2016 I worked as assistant engineer in Xi'an Realect Electronic Development Co.,Ltd
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+In 05/2018-01/2021 I was software engineer in Xi'an Baofei Electronic Co.,Ltd
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
