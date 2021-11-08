@@ -32,7 +32,7 @@ Xi'an University of Technology
 
 [5] Submitted to ISA Transactions. Xuehui Ma, Fucai Qian, Shiliang Zhang. Adaptive dual control with online outlier detection for uncertain system. 
 
-[6] Drafting: Reinforcement Q-learning for the optimal control of discrete-time linear stochastic system with dual uncertainties
+[6] Drafting: Q-learning based adaptive control for unknown system with optimized exploration
 
 [7] Thesis: [飞控硬件平台设计及导航算法研究](https://github.com/MaXuehui/Design-for-flight-control-platform-and-research-on-navigation-algorithm)
 
