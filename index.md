@@ -14,7 +14,7 @@ Xi'an University of Technology
 
 09/2014-7/2017, Master of engineering degree in Control Engineering, Xi'an University of Technology
 
-09/2014-7/2017, Bachelor of engineering degree in Electrical Engineering, Xi'an University of Technology
+09/2010-7/2014, Bachelor of engineering degree in Electrical Engineering, Xi'an University of Technology
 
 09/2015-06/2017, I worked as assistant engineer in Xi'an Realect Electronic Development Co.,Ltd
 
