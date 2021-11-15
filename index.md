@@ -16,7 +16,7 @@ Xi'an University of Technology
 
 09/2014-7/2017, Bachelor of engineering degree in Electrical Engineering, Xi'an University of Technology
 
-09/2015-10/2016, I worked as assistant engineer in Xi'an Realect Electronic Development Co.,Ltd
+09/2015-06/2017, I worked as assistant engineer in Xi'an Realect Electronic Development Co.,Ltd
 
 05/2018-01/2021, I was software engineer in Xi'an Baofei Electronic Co.,Ltd
 
