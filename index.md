@@ -16,9 +16,9 @@ Xi'an University of Technology
 
 09/2010-7/2014, Bachelor of engineering degree in Electrical Engineering, Xi'an University of Technology
 
-09/2015-06/2017, I worked as assistant engineer in Xi'an Realect Electronic Development Co.,Ltd
+09/2015-06/2017, assistant engineer in Xi'an Realect Electronic Development Co.,Ltd
 
-05/2018-01/2021, I was software engineer in Xi'an Baofei Electronic Co.,Ltd
+05/2018-01/2021, software engineer in Xi'an Baofei Electronic Co.,Ltd
 
 ### Publications
 
@@ -34,13 +34,15 @@ Xi'an University of Technology
 
 [6] Drafting: Q-learning based adaptive control for unknown system with optimized exploration
 
-[7] Thesis: [飞控硬件平台设计及导航算法研究](https://github.com/MaXuehui/Design-for-flight-control-platform-and-research-on-navigation-algorithm)
+[7] Master Thesis: [飞控硬件平台设计及导航算法研究](https://github.com/MaXuehui/Design-for-flight-control-platform-and-research-on-navigation-algorithm)
 
-[8] Computer Software Copyright: “10MHz-24GHz Analog Signal Generator On-Screen-Display Software”, 2020SR0722975, 20200703.
+[8] Computer Software Copyright: "10MHz-24GHz Analog Signal Generator On-Screen-Display Software", 2020SR0722975, 20200703.
 
-[9] Computer Software Copyright: “Single Point Phase Locked Source Software”, 2020SR0571073, 20200604.
+[9] Computer Software Copyright: "Single Point Phase Locked Source Software", 2020SR0571073, 20200604.
 
-[10] Computer Software Copyright: “Phase Locked Crystal Oscillator Software”, 2020SR0571067, 20200604.
+[10] Computer Software Copyright: "Phase Locked Crystal Oscillator Software", 2020SR0571067, 20200604.
+
+[11] [Patent: "Frequency synthesizer", CN210986084U, 20200710.](https://patents.google.com/patent/CN210986084U/en?oq=CN+210986084)
 
 ### Skills 
 
