@@ -32,7 +32,7 @@ Xi'an University of Technology
 
 [5] [Liu L, Xie G, Qian F, Guo X, Ma X. Dual fault-tolerant control for a class of stochastic systems with partial loss-of-control effectiveness[J]. International Journal of Rubust and Nonlinear Control, 2021.](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.5857)
 
-[6] Drafting: Reinforcement Q-learning for the stochastic system control with adaptive exploration
+[6] Peer review: Reinforcement Q-learning for the stochastic system control with adaptive exploration
 
 [7] Master Thesis: [飞控硬件平台设计及导航算法研究](https://github.com/MaXuehui/Design-for-flight-control-platform-and-research-on-navigation-algorithm)
 
