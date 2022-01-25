@@ -22,15 +22,15 @@ Xi'an University of Technology
 
 ### Publications
 
-[1] [Ma X, Qian F, Zhang S, et al. Adaptive quantile control for stochastic system[J]. ISA transactions, 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0019057821002950)
+[1] [Ma X, Qian F, Zhang S, et al. Adaptive dual control with online outlier detection for uncertain system[J]. ISA transactions, 2022.](https://www.sciencedirect.com/science/article/abs/pii/S0019057822000386)
 
-[2] [Ma X, Qian F, Zhang S. Dual control for stochastic systems with multiple uncertainties[C]//2020 39th Chinese Control Conference (CCC). IEEE, 2020: 1001-1006.](https://ieeexplore.ieee.org/document/9189668)
+[2] [Ma X, Qian F, Zhang S, et al. Adaptive quantile control for stochastic system[J]. ISA transactions, 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0019057821002950)
 
-[3] [Liu L, Xie G, Qian F, Wang M, Ma X. Reliable control based on dual control for ARMAX system with abrupt faults[J]. Journal of the Franklin Institute, 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0016003221002891)
+[3] [Ma X, Qian F, Zhang S. Dual control for stochastic systems with multiple uncertainties[C]//2020 39th Chinese Control Conference (CCC). IEEE, 2020: 1001-1006.](https://ieeexplore.ieee.org/document/9189668)
 
-[4] [Liu L, Xie G, Qian F, Guo X, Ma X. Dual fault-tolerant control for a class of stochastic systems with partial loss-of-control effectiveness[J]. International Journal of Rubust and Nonlinear Control, 2021.](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.5857)
+[4] [Liu L, Xie G, Qian F, Wang M, Ma X. Reliable control based on dual control for ARMAX system with abrupt faults[J]. Journal of the Franklin Institute, 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0016003221002891)
 
-[5] Submitted to ISA Transactions. Xuehui Ma, Fucai Qian, Shiliang Zhang. Adaptive dual control with online outlier detection for uncertain system. 
+[5] [Liu L, Xie G, Qian F, Guo X, Ma X. Dual fault-tolerant control for a class of stochastic systems with partial loss-of-control effectiveness[J]. International Journal of Rubust and Nonlinear Control, 2021.](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.5857)
 
 [6] Drafting: Reinforcement Q-learning for the stochastic system control with adaptive exploration
 
