@@ -46,7 +46,7 @@ Xi'an University of Technology
 
 ### Skills 
 
-Programming language: Matlab, C/C++, C#
+Programming language: Matlab, python, C/C++, C#
 
 Software: Visual Studio, Keil uVision, IAR, Altium Designer
 
